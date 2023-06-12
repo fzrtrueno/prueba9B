@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exa 9A</string>
+    <string name="title_home">Primero</string>
+    <string name="title_dashboard">Segundo</string>
+    <string name="title_notifications">Tercero</string>
+    <string name="title_four">Cuarto</string>
+</resources>
